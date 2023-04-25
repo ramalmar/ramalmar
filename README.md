@@ -4,7 +4,7 @@
 
 🔭 Currently, I work as a freelance Electronic Prototype Designer and specialize in designing and programming microcontrollers and FPGAs.
 
-💡 Check out my projects: [IA-porfolio](https://github.com/ramalmar/Artificial-Inteligence-Portfolio)
+💡 Check out my projects: [IA- proyects](https://github.com/ramalmar/Artificial-Inteligence-Portfolio)
 
 🌱 I'm currently pursuing a Master's degree in AI programming and I'm excited to apply my knowledge and skills to develop cutting-edge AI systems.
 
